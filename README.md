@@ -1,4 +1,4 @@
-# Awesome Fed Reasoning in Large Language Models
+# Awesome-Federated-Learning-of-Large Language Models
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/jeffhj/LM-reasoning) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -59,17 +59,17 @@ Zhenqing Ling, Daoyuan Chen, Liuyi Yao, Yaliang Li, Ying Shen
 
 Jianyi Zhang, Saeed Vahidian, Martin Kuo, Chunyuan Li, Ruiyi Zhang, Tong Yu
 
-#### [Federated Instruction Tuning of LLMs with Domain Coverage Augmentation](https://arxiv.org/html/2409.20135v3) *Sep 2024*
+#### [Federated Instruction Tuning of LLMs with Domain Coverage Augmentation](https://arxiv.org/html/2409.20135v3) *Sep 2024 arXiv*
 Zezhou Wang, Yaxin Du, Zhuzhong Qian
 
-#### [Data Quality Control in Federated Instruction-tuning of Large Language Models](https://arxiv.org/abs/2410.11540) *Oct 2024*
+#### [Data Quality Control in Federated Instruction-tuning of Large Language Models](https://arxiv.org/abs/2410.11540) *Oct 2024 arXiv*
 Yaxin Du, Rui Ye, Fengting Yuchi, Wanru Zhao, Jingjing Qu, Yanfeng Wang, Siheng Chen
 
-#### [Federated Data-Efficient Instruction Tuning for Large Language Models](https://arxiv.org/abs/2410.10926) *Mon 2024*
+#### [Federated Data-Efficient Instruction Tuning for Large Language Models](https://arxiv.org/abs/2410.10926) *Mon 2024 arXiv*
 
 Zhen Qin, Zhaomin Wu, Bingsheng He, Shuiguang Deng
 
-#### [FewFedPIT: Towards Privacy-preserving and Few-shot Federated Instruction Tuning](https://arxiv.org/abs/2403.06131) *Mar 2024*
+#### [FewFedPIT: Towards Privacy-preserving and Few-shot Federated Instruction Tuning](https://arxiv.org/abs/2403.06131) *Mar 2024 arXiv*
 
 Zhuo Zhang, Jingyuan Zhang, Jintao Huang, Lizhen Qu, Hongzhi Zhang, Qifan Wang, Xun Zhou, Zenglin Xu
 
@@ -115,7 +115,7 @@ Ziyao Wang, Zheyu Shen, Yexiao He, Guoheng Sun, Hongyi Wang, Lingjuan Lyu, Ang L
 
 Ji Liu, Jiaxiang Ren, Ruoming Jin, Zijie Zhang, Yang Zhou, Patrick Valduriez, Dejing Dou
 
-#### [Dual-Personalizing Adapter for Federated Foundation Models]([45a30141c6719e9cfedfb51f1c665a37-Paper-Conference.pdf](https://proceedings.neurips.cc/paper_files/paper/2024/file/45a30141c6719e9cfedfb51f1c665a37-Paper-Conference.pdf)) *Mar 2024 NeurIPS*
+#### [Dual-Personalizing Adapter for Federated Foundation Models](https://proceedings.neurips.cc/paper_files/paper/2024/file/45a30141c6719e9cfedfb51f1c665a37-Paper-Conference.pdf)) *Mar 2024 NeurIPS*
 
 Yiyuan Yang, Guodong Long, Tao Shen, Jing Jiang, Michael Blumenstein
 
@@ -170,19 +170,6 @@ Tao Fan, Yan Kang, Guoqiang Ma, Weijing Chen, Wenbin Wei, Lixin Fan, Qiang Yang
 Rui Ye, Wenhao Wang, Jingyi Chai, Dihan Li, Zexi Li, Yinda Xu, Yaxin Du, Yanfeng Wang, Siheng Chen
 
 
-#### [I Can't Share Code, but I need Translation -- An Empirical Study on Code Translation through Federated LLM](https://arxiv.org/abs/2501.05724) *Jan 2025*
+#### [I Can't Share Code, but I need Translation -- An Empirical Study on Code Translation through Federated LLM](https://arxiv.org/abs/2501.05724) *Jan 2025 arXiv*
 
 Jahnavi Kumar, Venkata Lakshmana Sasaank Janapati, Mokshith Reddy Tanguturi, Sridhar Chimalakonda
-
-## 
-
-#### []() **
-#### []() **
-
-## Citation
-
-If you find this repo useful, please kindly cite our survey:
-
-```
-
-```
